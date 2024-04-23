@@ -1,1 +1,3 @@
 # tic-tac-toe
+
+This Tic Tac Toe game is a simple, console-based implementation written in C++. It's designed for two players who take turns marking the spaces in a 3x3 grid with either 'X' or 'O'. The players input their choices by specifying the row and column numbers where they wish to place their mark. The game checks for a win after each move, evaluating rows, columns, and diagonals for any straight line of identical symbols, either 'X' or 'O'. If a player successfully lines up three of their symbols, they win the game. If the board fills up without any player achieving this, the game ends in a draw. The program includes functions to display the board, check for a win, and handle player moves, providing a straightforward and interactive gaming experience.
